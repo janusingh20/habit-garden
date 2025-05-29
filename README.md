@@ -22,8 +22,11 @@ A React SPA that lets you track daily habits as a growing virtual garden—compl
 
 ```bash
 # Clone your repo locally (replace <username> and repo name)
-git clone https://github.com/<username>/habit-garden-voice.git
-cd habit-garden-voice
+git clone https://github.com/<username>/habit-garden.git
+cd habit-garden
 
 # Install dependencies
 npm install
+
+#start
+npm start
