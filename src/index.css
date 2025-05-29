@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #e0ffe0;
+}
+button {
+  cursor: pointer;
+  margin: 5px;
+}
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+}
+h1, h2 {
+  margin-bottom: 12px;
+}
